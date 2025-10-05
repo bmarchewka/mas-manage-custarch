@@ -1,7 +1,4 @@
-# mas-manage-custarch
-Maximo Application Suite - Manage - Customisation Archive
-
-## 📦 Manage Customization Archive Automation
+# 📦 Manage Customization Archive Automation
 
 This project automates the packaging and deployment of customization archives for IBM MAS Manage using Bitbucket Pipelines and OpenShift. It includes a CD pipeline configuration and a shell script to zip, upload, and update customization archive references in an OpenShift (ManageWorkspace).
 
